@@ -1,0 +1,161 @@
+﻿Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+
+C:\Users\User>cd downloads
+
+
+C:\Users\User\Downloads>mkdir OSA-LQ2
+
+
+C:\Users\User\Downloads>cd OSA-LQ2
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3A"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3B"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3C"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3A\Subjects"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3A\Students"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3B\Subjects"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3B\Students"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3C\Subjects"
+
+
+C:\Users\User\Downloads\OSA-LQ2>mkdir "CS3C\Students"
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Dr. Helen Evelyn Valdez > CS3_Adviser.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>move CS3_Adviser.txt CS3A
+        1 file(s) moved.
+
+
+C:\Users\User\Downloads\OSA-LQ2>copy CS3A\CS3_Adviser.txt CS3B
+        1 file(s) copied.
+
+
+C:\Users\User\Downloads\OSA-LQ2>copy CS3A\CS3_Adviser.txt CS3C
+        1 file(s) copied.
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Dr. Arjay Gacula > CS3B\CS3_Adviser.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Dr. Rosemarie Lee > CS3C\CS3_Adviser.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo A > Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo B >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo C >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Code: CS 310 >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Title: Communications and Networks >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Instructor: Dr. April S. Evangelista >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo 1 >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo 2 >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo 3 >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subjects Code: CS 301 >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Title: Operating Systems >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Instructor: Cliff Owen Pascua >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo X >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Y >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Z >> Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>move Subjects.txt CS3A\Subjects
+        1 file(s) moved.
+
+
+C:\Users\User\Downloads\OSA-LQ2>copy CS3A\Subjects\Subjects.txt CS3B\Subjects
+        1 file(s) copied.
+
+
+C:\Users\User\Downloads\OSA-LQ2>copy CS3A\Subjects\Subjects.txt CS3C\Subjects
+        1 file(s) copied.
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Code: CS 310 >> CS3B\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Title: Communications and Networks >> CS3B\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Instructor: Dr. April S. Evangelista >> CS3B\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo FOR 3B >> CS3B\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Code: CS 310 >> CS3C\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Ttile: Communications and Networks >> CS3C\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Subject Instructor: Rovel Harold Cabatic >> CS3C\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo FOR C >> CS3C\Subjects\Subjects.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo A > Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo B >> Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo C >> Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Student Name: Juan Dela Cruz >> Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Student Name: Rizalino Jose >> Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo Student Name: Olivero Andres >> Students.txt
+
+
+C:\Users\User\Downloads\OSA-LQ2>echo 1 >> Students.txt
